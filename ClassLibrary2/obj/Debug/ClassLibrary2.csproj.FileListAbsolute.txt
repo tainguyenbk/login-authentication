@@ -1,0 +1,6 @@
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

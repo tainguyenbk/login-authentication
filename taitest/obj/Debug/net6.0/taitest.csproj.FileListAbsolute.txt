@@ -1,0 +1,12 @@
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\bin\Debug\net6.0\taitest.deps.json
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\bin\Debug\net6.0\taitest.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\bin\Debug\net6.0\taitest.pdb
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.csproj.AssemblyReference.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.GeneratedMSBuildEditorConfig.editorconfig
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.AssemblyInfoInputs.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.AssemblyInfo.cs
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.csproj.CoreCompileInputs.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\refint\taitest.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\taitest.pdb
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\taitest\obj\Debug\net6.0\ref\taitest.dll

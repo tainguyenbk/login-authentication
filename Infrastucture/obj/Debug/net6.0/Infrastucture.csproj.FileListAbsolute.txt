@@ -1,0 +1,12 @@
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\bin\Debug\net6.0\Infrastucture.deps.json
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\bin\Debug\net6.0\Infrastucture.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\bin\Debug\net6.0\Infrastucture.pdb
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.AssemblyReference.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfoInputs.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfo.cs
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.CoreCompileInputs.cache
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\refint\Infrastucture.dll
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\Infrastucture.pdb
+D:\BECAMEX\Du an XLNT\SCADA\LoginAuthDemo\Infrastucture\obj\Debug\net6.0\ref\Infrastucture.dll
